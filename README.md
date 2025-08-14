@@ -1,3 +1,5 @@
 # constructionclass
-This is a Pythin class build i did for a solo project which uses some math in it
-feel free to use it.
+
+yeah welcome to maybe some random crap (i think) this project uses both python and jsx for the following
+
+files.. to contribute copy the code using git-clone and the name of the repo.
